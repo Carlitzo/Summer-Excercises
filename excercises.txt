@@ -1,0 +1,70 @@
+☀️ Sommarövningar i Vanilla JS
+1. To-Do List med Local Storage
+
+Svårighetsgrad: 🟢 Enkel
+Vad du tränar på: DOM-manipulation, events, persistens.
+Beskrivning:
+
+    Inputfält + knapp för att lägga till uppgifter
+
+    Lista där du kan markera som "klar", ta bort
+
+    Spara allt i localStorage
+
+2. Digital Klocka eller Timer
+
+Svårighetsgrad: 🟢 Enkel
+Vad du tränar på: setInterval, datum-API, DOM-uppdatering.
+Beskrivning:
+
+    Visa nuvarande tid i realtid
+
+    Bonus: gör en timer med start/pause/reset-knappar
+
+3. Quiz-app med flera frågor
+
+Svårighetsgrad: 🟡 Medel
+Vad du tränar på: Arrays, DOM, logik.
+Beskrivning:
+
+    En array med frågor och alternativ
+
+    Visa en fråga åt gången, visa rätt/fel
+
+    Poängräkning och slutresultat
+
+4. Slumpad färggenerator
+
+Svårighetsgrad: 🟢 Enkel
+Vad du tränar på: Slumptal, färghantering.
+Beskrivning:
+
+    Knapp som slumpar en bakgrundsfärg
+
+    Visa hex-kod (t.ex. #34afde)
+
+    Kopiera-knapp (copy to clipboard)
+
+5. Image Slider / Karusell
+
+Svårighetsgrad: 🟡 Medel
+Vad du tränar på: Arrays, klick-event, dynamisk DOM.
+Beskrivning:
+
+    Lista med bilder
+
+    Föregående/nästa-knapp
+
+    Automatisk rotation med setInterval (bonus)
+
+6. Använd ett öppet API
+
+Svårighetsgrad: 🟡 Medel
+Vad du tränar på: fetch, JSON, asynkrona anrop.
+Exempel:
+
+    Hämta Pokémon från https://pokeapi.co
+
+    Visa bild + namn
+
+    Bonus: sökfält
